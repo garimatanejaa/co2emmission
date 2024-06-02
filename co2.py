@@ -12,7 +12,7 @@ with st.sidebar:
     user_input = st.selectbox('Please select',('Visulization','Model'))
 
 # Load the vehicle dataset
-df = pd.read_csv('/Users/garima/Desktop/co2emmission/co2 Emissions (1).csv')
+df = pd.read_csv('co2 Emissions (1).csv')
 
 # Drop rows with natural gas as fuel type
 fuel_type_mapping = {"Z": "Premium Gasoline","X": "Regular Gasoline","D": "Diesel","E": "Ethanol(E85)","N": "Natural Gas"}
