@@ -57,7 +57,7 @@ pip install -r requirements.txt
 # Deployment:
 
 - The project was deployed using Streamlit, allowing users to interact with the model and make predictions on CO2 emissions based on car engine features.
-- The deployment version of the project can be accessed through a provided link :[Project](https://rajveersinghcse-co2emissionsprediction.streamlit.app/)
+- The deployment version of the project can be accessed through a provided link :[Project](https://co2emmission-garimataneja.streamlit.app/)
 
 # Running the Project:
 
