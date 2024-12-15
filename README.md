@@ -1,5 +1,5 @@
 
-You can view the deployed Streamlit app [here](https://share.streamlit.io/username/repository-name).
+You can view the deployed Streamlit app [here](https://co2emmission-garimataneja.streamlit.app/).
 # Description of The Project:
 
 <h3><b>Business Objective of the project</b></h3>
